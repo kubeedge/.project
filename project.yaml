@@ -26,7 +26,7 @@ repositories: # TODO: AUTO-DETECTED primary — please verify
 
 website: "https://kubeedge.io/en/"
 
-artwork: "https://landscape.cncf.io/logos/kube-edge.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/kubeedge"
 
 adopters:
   path: "https://github.com/kubeedge/kubeedge/blob/master/ADOPTERS.md"
